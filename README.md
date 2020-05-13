@@ -1,2 +1,0 @@
-# algorithms
- All algorithms learned.
